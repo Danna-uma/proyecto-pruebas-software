@@ -1,0 +1,15 @@
+﻿# Maven
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+.git-respaldo/
